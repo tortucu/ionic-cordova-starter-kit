@@ -1,0 +1,7 @@
+{
+  "name": "ionic-cordova-starter-kit",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular-standalone"
+}
